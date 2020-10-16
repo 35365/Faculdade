@@ -1,0 +1,21 @@
+Proprietario:Patricia
+Morada:Rua numero 1
+Localidade: Senhora da hora
+CodigoPostal: 4460
+Autonomia: true
+Contador: Contador{contadorID=1, morada=Rua numero 1, rede=Rede Eletricia Porto}
+Equipamentos:
+
+	Equipamento{nome=Televisão , potencia=31.0, ativo=true
+	,Proprietario: Patricia, morada: Rua numero 1}
+	Equipamento{nome=Maquina da loiça, potencia=1900.0, ativo=true
+	,Proprietario: Patricia, morada: Rua numero 1}
+	Equipamento{nome=Aquecedor eletrico, potencia=2000.0, ativo=false
+	,Proprietario: Patricia, morada: Rua numero 1}
+	Equipamento{nome=Microondas, potencia=2100.0, ativo=true
+	,Proprietario: Patricia, morada: Rua numero 1}
+FontesEnergiaP:
+	
+	FonteEnergiaP{ fonteID=3 dimensao=A 2017 x L 1175 x P 87 mm, morada=Rua numero 1, tipo=Painel Solar, energia produzida=3000.0}
+	FonteEnergiaP{ fonteID=2 dimensao=A 2017 x L 1175 x P 87 mm, morada=Rua numero 1, tipo=Painel Solar, energia produzida=2800.0}
+	FonteEnergiaP{ fonteID=1 dimensao=A 2017 x L 1175 x P 87 mm, morada=Rua numero 1, tipo=Painel Solar, energia produzida=2100.0}

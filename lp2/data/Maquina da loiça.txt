@@ -1,0 +1,12 @@
+Nome:Maquina da loiça
+Morada: Rua numero 1
+Potencia: 1900.0
+true
+HistoricoConsumo: 
+
+	HistoricoConsumo{inicio=Sat Nov 24 13:35:00 WET 1917, fim=Sun May 12 18:15:00 WEST 1918
+Equipamento{nome=Maquina da loiça, potencia=1900.0, ativo=true
+	,Proprietario: Patricia, morada: Rua numero 1}}
+	HistoricoConsumo{inicio=Mon Jun 10 12:35:00 WEST 1918, fim=Mon Jun 10 18:15:00 WEST 1918
+Equipamento{nome=Maquina da loiça, potencia=1900.0, ativo=true
+	,Proprietario: Patricia, morada: Rua numero 1}}

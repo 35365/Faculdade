@@ -1,0 +1,13 @@
+Nome:Rede Eletricia Porto
+Alimentação:300.0
+CentralID: 1
+Fontes Energia Grandes: 
+
+	FonteEnergiaG{tipo=Barragem, EnergiaProduzida=300.0, rede=Rede Eletricia Porto, fonteID=1}
+	FonteEnergiaG{tipo=Aeólica, EnergiaProduzida=450.0, rede=Rede Eletricia Porto, fonteID=2}
+	FonteEnergiaG{tipo=Painel Solar G, EnergiaProduzida=320.0, rede=Rede Eletricia Porto, fonteID=3}
+Contadores: 
+
+	Contador{contadorID=1, morada=Rua numero 1, rede=Rede Eletricia Porto}
+	Contador{contadorID=30, morada=Rua numero 3, rede=Rede Eletricia Porto}
+	Contador{contadorID=2, morada=Rua numero 2, rede=Rede Eletricia Porto}
